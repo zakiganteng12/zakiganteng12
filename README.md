@@ -9,7 +9,7 @@ List of all the projects i've developed until now.
 Platform informasi dan pendaftaran acara tahunan **Sistem Informasi Festival**.
 
 <p align="center">
-  <img src="https://your-image-url.com/sifest.png" alt="SI FEST Screenshot" width="600"/>
+  <img src="img/sifest2024/sifest1.png" alt="SI FEST Screenshot" width="600"/>
 </p>
 <p align="center">
   <img src="https://your-image-url.com/sifest.png" alt="SI FEST Screenshot" width="600"/>
