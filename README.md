@@ -12,14 +12,14 @@ Platform informasi dan pendaftaran acara tahunan **Sistem Informasi Festival**.
   <img src="img/sifest2024/sifest1.png" alt="SI FEST Screenshot" width="600"/>
 </p>
 <p align="center">
-  <img src="https://your-image-url.com/sifest.png" alt="SI FEST Screenshot" width="600"/>
+  <img src="img/sifest2024/sifest2.png" alt="SI FEST Screenshot" width="600"/>
 </p>
 <p align="center">
-  <img src="https://your-image-url.com/sifest.png" alt="SI FEST Screenshot" width="600"/>
+  <img src="img/sifest2024/sifest3.png" alt="SI FEST Screenshot" width="600"/>
 </p>
 
 **Tech Stack**: Laravel, Inertia.js, SCSS / SASS  
-🔗 [Lihat Proyek](https://github.com/username/sifest)
+🔗 [Lihat Proyek](https://github.com/NicolausOwen/Sifest2024)
 
 ---
 
@@ -28,10 +28,10 @@ Aplikasi web untuk mempermudah proses **Penerimaan Peserta Didik Baru (PPDB)** s
 
 <p align="center">
   <img src="https://your-image-url.com/elibrary.png" alt="E-Library Screenshot" width="600"/>
-</p>
+</p> 
 
 **Tech Stack**: Laravel, Vue, Inertia.js
-🔗 [Lihat Proyek](https://github.com/username/elibrary)
+🔗 [Lihat Proyek](https://github.com/zakiganteng12/SMART_APP)
 
 ---
 
@@ -39,12 +39,9 @@ Aplikasi web untuk mempermudah proses **Penerimaan Peserta Didik Baru (PPDB)** s
 
 Aplikasi galeri gambar dengan fitur tambah, edit, dan hapus menggunakan modal Bootstrap.
 
-<p align="center">
-  <img src="https://your-image-url.com/artgallery.png" alt="ArtGallery Screenshot" width="600"/>
-</p>
 
 **Tech Stack**: Laravel, Blade, Bootstrap 5  
-🔗 [Lihat Proyek](https://github.com/username/artgallery)
+🔗 [Lihat Proyek](https://github.com/zakiganteng12/P.PWEB2-ArtGallery)
 
 ---
 
