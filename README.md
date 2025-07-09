@@ -26,10 +26,6 @@ Platform informasi dan pendaftaran acara tahunan **Sistem Informasi Festival**.
 ## 🏫 2. SMART_APP
 Aplikasi web untuk mempermudah proses **Penerimaan Peserta Didik Baru (PPDB)** secara online. Sistem ini mendukung alur pendaftaran, verifikasi, dan pengumuman hasil seleksi dengan antarmuka yang ramah pengguna.
 
-<p align="center">
-  <img src="https://your-image-url.com/elibrary.png" alt="E-Library Screenshot" width="600"/>
-</p> 
-
 **Tech Stack**: Laravel, Vue, Inertia.js
 🔗 [Lihat Proyek](https://github.com/zakiganteng12/SMART_APP)
 
@@ -38,7 +34,6 @@ Aplikasi web untuk mempermudah proses **Penerimaan Peserta Didik Baru (PPDB)** s
 ## 🖼 3. ArtGallery
 
 Aplikasi galeri gambar dengan fitur tambah, edit, dan hapus menggunakan modal Bootstrap.
-
 
 **Tech Stack**: Laravel, Blade, Bootstrap 5  
 🔗 [Lihat Proyek](https://github.com/zakiganteng12/P.PWEB2-ArtGallery)
