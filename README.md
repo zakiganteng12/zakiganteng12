@@ -43,7 +43,7 @@ Aplikasi web untuk mempermudah proses **Penerimaan Peserta Didik Baru (PPDB)** s
 
 ## 🖼 3. ArtGallery
 
-Aplikasi galeri gambar dengan fitur tambah, edit, dan hapus menggunakan modal Bootstrap.
+Aplikasi galeri gambar dengan fitur tambah, edit, dan hapus menggunakan modal Bootstrap, ini salah satu dari Project kuliah saya.
 
 **Tech Stack**: Laravel, Blade, Bootstrap 5  
 🔗 [Lihat Proyek](https://github.com/zakiganteng12/P.PWEB2-ArtGallery)
