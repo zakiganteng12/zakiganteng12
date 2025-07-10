@@ -1,6 +1,21 @@
 **Hey, im Dzaky!**
 
-Currently looking for an internship
+Currently looking for an internship or any fun project
+
+my magic spell
+
+<p align="">
+  <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow" height="200" width="200"/>
+</p>
+<p align="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png" alt="openai" height="200" width="200"/>
+</p>
+
+
+Projects ive made
+- [Sifest 2024](https://github.com/NicolausOwen/Sifest2024) 
+- [SMART_APP](https://github.com/zakiganteng12/SMART_APP) 
+- [ArtGallery](https://github.com/zakiganteng12/P.PWEB2-ArtGallery) 
 
 How to reach me 
 - ✉️ muhammadzakiplg@gmail.com  
