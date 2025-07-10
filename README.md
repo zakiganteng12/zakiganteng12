@@ -13,9 +13,9 @@ my magic spell
 
 
 Projects ive made
-- [Sifest 2024](https://github.com/NicolausOwen/Sifest2024) Team projects of HIMSI Ristek PTI 2024
+- [Sifest 2024](https://github.com/NicolausOwen/Sifest2024) Participated as a backend in IT Division of SIFEST UNSRI 2024
 - [SMART_APP](https://github.com/zakiganteng12/SMART_APP) 
-- [ArtGallery](https://github.com/zakiganteng12/P.PWEB2-ArtGallery) My College Project
+- [ArtGallery](https://github.com/zakiganteng12/P.PWEB2-ArtGallery) College Web Programming Project
 
 How to reach me 
 - ✉️ muhammadzakiplg@gmail.com  
