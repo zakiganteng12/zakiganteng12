@@ -9,5 +9,5 @@ How to reach me
 My setup btw :
 
 <p align="center">
-  <img src="" alt="the greatest most productive setup..." width="600"/>
+  <img src="img/setup.jpeg" alt="the greatest most productive setup..." width="600"/>
 </p>
