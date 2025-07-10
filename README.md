@@ -11,12 +11,6 @@ Platform informasi dan pendaftaran acara tahunan **Sistem Informasi Festival**.
 <p align="center">
   <img src="img/sifest2024/sifest1.png" alt="SI FEST Screenshot" width="600"/>
 </p>
-<p align="center">
-  <img src="img/sifest2024/sifest2.png" alt="SI FEST Screenshot" width="600"/>
-</p>
-<p align="center">
-  <img src="img/sifest2024/sifest3.png" alt="SI FEST Screenshot" width="600"/>
-</p>
 
 **Tech Stack**: Laravel, Inertia.js, SCSS / SASS  
 🔗 [Lihat Proyek](https://github.com/NicolausOwen/Sifest2024)
@@ -25,16 +19,6 @@ Platform informasi dan pendaftaran acara tahunan **Sistem Informasi Festival**.
 
 ## 🏫 2. SMART_APP
 Aplikasi web untuk mempermudah proses **Penerimaan Peserta Didik Baru (PPDB)** secara online. Sistem ini mendukung alur pendaftaran, verifikasi, dan pengumuman hasil seleksi dengan antarmuka yang ramah pengguna.
-
-<p align="center">
-  <img src="img/smart_app/smart_app1.png" alt="SI FEST Screenshot" width="600"/>
-</p>
-<p align="center">
-  <img src="img/smart_app/smart_app2.png" alt="SI FEST Screenshot" width="600"/>
-</p>
-<p align="center">
-  <img src="img/smart_app/smart_app3.png" alt="SI FEST Screenshot" width="600"/>
-</p>
 
 **Tech Stack**: Laravel, Vue, Inertia.js
 🔗 [Lihat Proyek](https://github.com/zakiganteng12/SMART_APP)
