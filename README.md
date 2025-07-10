@@ -8,6 +8,6 @@ How to reach me
 
 My setup btw :
 
-<p align="center">
-  <img src="img/setup.jpeg" alt="the greatest most productive setup..." width="600"/>
+<p align="">
+  <img src="img/setup.jpeg" alt="the greatest most productive setup..." height="200" width="200"/>
 </p>
